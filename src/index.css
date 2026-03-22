@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f0f0f0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.my-custom-class
+{
+  overflow: hidden;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 20px;
+}
+@media screen and (min-width: 1280px) {
+  .container {
+    max-width: 1184px;
+  }
+}

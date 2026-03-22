@@ -1,0 +1,912 @@
+[
+  {
+    "frontMatter": {
+      "title_thumbnail": "SSL và vai trò của chứng chỉ bảo mật SSL với Website",
+      "title": "SSL và vai trò của chứng chỉ bảo mật SSL với Website",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2024/1/5",
+      "hero_image": {
+        "image": "/assets/images/News/ssl-and-the-role-of-ssl-security-certificate-with-website/image1.jpg",
+        "alt": "SSL và vai trò của chứng chỉ bảo mật SSL với Website"
+      },
+      "tags": ["SSL", "SSL security certificates", "development", "technology"]
+    },
+    "slug": "ssl-and-the-role-of-ssl-security-certificate-with-website"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Vai trò của Proof Of Concept trоng đa lĩnh vực bạn nên biết",
+      "title": "Vai trò của Proof Of Concept trоng đa lĩnh vực bạn nên biết",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/12/29",
+      "hero_image": {
+        "image": "/assets/images/News/the-role-of-proof-of-concept-in-many-fields-you-should-know/image1.jpg",
+        "alt": "Vai trò của Proof Of Concept trоng đa lĩnh vực bạn nên biết"
+      },
+      "tags": ["Proof of Concept", "development", "technology"]
+    },
+    "slug": "the-role-of-proof-of-concept-in-many-fields-you-should-know"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Kiến thức cơ bản về ngôn ngữ Visual Basic (VB)",
+      "title": "Kiến thức cơ bản về ngôn ngữ Visual Basic (VB)",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/12/15",
+      "hero_image": {
+        "image": "/assets/images/News/basic-knowledge-of-visual-basic-vb-language/image1.jpg",
+        "alt": "Kiến thức cơ bản về ngôn ngữ Visual Basic (VB)"
+      },
+      "tags": [
+        "Visual Basic",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "basic-knowledge-of-visual-basic-vb-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Tìm hiểu về hệ điều hành Ubuntu",
+      "title": "Tìm hiểu về hệ điều hành Ubuntu",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/12/1",
+      "hero_image": {
+        "image": "/assets/images/News/learn-about-ubuntu-operating-system/image1.jpg",
+        "alt": "Tìm hiểu về hệ điều hành Ubuntu"
+      },
+      "tags": [
+        "Ubuntu",
+        "operating system",
+        "hệ điều hành",
+        "development",
+        "technology"
+      ]
+    },
+    "slug": "learn-about-ubuntu-operating-system"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "IP là gì? Cấu trúc và các loại địa chỉ IP phổ biến",
+      "title": "IP là gì? Cấu trúc và các loại địa chỉ IP phổ biến",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/11/24",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-ip-structures-and-common-types-of-ip-addresses/image1.jpg",
+        "alt": "IP là gì? Cấu trúc và các loại địa chỉ IP phổ biến"
+      },
+      "tags": ["IP", "IP address", "development", "technology"]
+    },
+    "slug": "what-is-ip-structures-and-common-types-of-ip-addresses"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "NGINX là gì? Những thông tin cần biết về NGINX Server",
+      "title": "NGINX là gì? Những thông tin cần biết về NGINX Server",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/11/17",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-nginx-what-you-need-to-know-about-nginx-server/image1.jpg",
+        "alt": "NGINX là gì? Những thông tin cần biết về NGINX Server"
+      },
+      "tags": ["Server", "NGINX", "development", "technology"]
+    },
+    "slug": "what-is-nginx-what-you-need-to-know-about-nginx-server"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Các tính năng nổi bật nhất của Visual Studio Code và ví dụ thực tế",
+      "title": "Các tính năng nổi bật nhất của Visual Studio Code và ví dụ thực tế",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/11/3",
+      "hero_image": {
+        "image": "/assets/images/News/the-most-outstanding-features-of-visual-studio-code-and-practical-examples/image1.jpg",
+        "alt": "Các tính năng nổi bật nhất của Visual Studio Code và ví dụ thực tế"
+      },
+      "tags": [
+        "Code",
+        "Coding",
+        "Visual Studio Code",
+        "development",
+        "technology"
+      ]
+    },
+    "slug": "the-most-outstanding-features-of-visual-studio-code-and-practical-examples"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Code Convention là gì? Các cú pháp thông dụng của Code Convention",
+      "title": "Code Convention là gì? Các cú pháp thông dụng của Code Convention",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/11/3",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-code-convention-common-syntaxes-of-code-convention/image1.jpg",
+        "alt": "Code Convention là gì? Các cú pháp thông dụng của Code Convention"
+      },
+      "tags": ["Code", "Coding", "Code convention", "development", "technology"]
+    },
+    "slug": "what-is-code-convention-common-syntaxes-of-code-convention"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "IPv4 và IPv6 – Tìm hiểu hai giao thức mạng phổ biến trên Internet",
+      "title": "IPv4 và IPv6 – Tìm hiểu hai giao thức mạng phổ biến trên Internet",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/10/27",
+      "hero_image": {
+        "image": "/assets/images/News/pv4-and-ipv6-learn-about-two-popular-network-protocols-on-the-internet/image1.jpg",
+        "alt": "IPv4 và IPv6 – Tìm hiểu hai giao thức mạng phổ biến trên Internet"
+      },
+      "tags": ["IPv4", "IPv6", "internet", "technology", "development"]
+    },
+    "slug": "pv4-and-ipv6-learn-about-two-popular-network-protocols-on-the-internet"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "OOP là gì? Nguyên lý cơ bản của lập trình hướng đối tượng",
+      "title": "OOP là gì? Nguyên lý cơ bản của lập trình hướng đối tượng",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/10/20",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-oop-fundamentals-of-object-oriented-programming/image1.jpg",
+        "alt": "OOP là gì? Nguyên lý cơ bản của lập trình hướng đối tượng"
+      },
+      "tags": ["OOP", "software", "development", "developer", "technology"]
+    },
+    "slug": "what-is-oop-fundamentals-of-object-oriented-programming"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Tổng quan về quy trình phát triển phần mềm",
+      "title": "Tổng quan về quy trình phát triển phần mềm",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/10/13",
+      "hero_image": {
+        "image": "/assets/images/News/overview-of-the-software-development-process/image2.jpg",
+        "alt": "Tổng quan về quy trình phát triển phần mềm"
+      },
+      "tags": ["backlink", "website", "seo", "ranking", "content"]
+    },
+    "slug": "overview-of-the-software-development-process"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Hệ điều hành là gì? Các hệ điều hành máy tính phổ biến nhất",
+      "title": "Hệ điều hành là gì? Các hệ điều hành máy tính phổ biến nhất",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/10/5",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-the-operating-system-the-most-popular-computer-operating-systems/image4.jpg",
+        "alt": "Hệ điều hành là gì? Các hệ điều hành máy tính phổ biến nhất"
+      },
+      "tags": ["operating system", "hệ điều hành", "development", "technology"]
+    },
+    "slug": "what-is-the-operating-system-the-most-popular-computer-operating-systems"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Remote job là gì? Phân biệt làm remote jobs và freelancer",
+      "title": "Remote job là gì? Phân biệt làm remote jobs và freelancer",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/9/29",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-remote-job-difference-between-remote-jobs-and-freelancers/image1.jpg",
+        "alt": "Remote job là gì? Phân biệt làm remote jobs và freelancer"
+      },
+      "tags": ["remote job", "freelancer", "developer"]
+    },
+    "slug": "what-is-a-remote-job-difference-between-remote-jobs-and-freelancers"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Tìm hiểu về ngôn ngữ Assembly",
+      "title": "Tìm hiểu về ngôn ngữ Assembly",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/9/22",
+      "hero_image": {
+        "image": "/assets/images/News/learn-about-assembly-programming-language/image1.jpg",
+        "alt": "Tìm hiểu về ngôn ngữ Assembly"
+      },
+      "tags": [
+        "Assembly",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "learn-about-assembly-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Toàn bộ kiến thức cần biết về ngôn ngữ lập trình C++",
+      "title": "Toàn bộ kiến thức cần biết về ngôn ngữ lập trình C++",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/9/8",
+      "hero_image": {
+        "image": "/assets/images/News/all-you-need-to-know-about-the-C-programming-language/image2.jpg",
+        "alt": "Toàn bộ kiến thức cần biết về ngôn ngữ lập trình C++"
+      },
+      "tags": [
+        "C++",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "all-you-need-to-know-about-the-C-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Top 10 PHP Frameworks được sử dụng nhiều nhất hiện nay (Phần 2)",
+      "title": "Top 10 PHP Frameworks được sử dụng nhiều nhất hiện nay (Phần 2)",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/31",
+      "hero_image": {
+        "image": "/assets/images/News/top-10-most-used-php-frameworks-nowaday-part-2/image4.jpg",
+        "alt": "Top 10 PHP Frameworks được sử dụng nhiều nhất hiện nay (Phần 2)"
+      },
+      "tags": [
+        "PHP",
+        "Framework",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "top-10-most-used-php-frameworks-nowaday-part-2"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Top 10 PHP Frameworks được sử dụng nhiều nhất hiện nay (Phần 1)",
+      "title": "Top 10 PHP Frameworks được sử dụng nhiều nhất hiện nay (Phần 1)",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/24",
+      "hero_image": {
+        "image": "/assets/images/News/top-10-most-used-php-frameworks-nowaday-part-1/image2.jpg",
+        "alt": "Top 10 PHP Frameworks được sử dụng nhiều nhất hiện nay (Phần 1)"
+      },
+      "tags": [
+        "PHP",
+        "Framework",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "top-10-most-used-php-frameworks-nowaday-part-1"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Tìm hiểu về ngôn ngữ lập trình C#",
+      "title": "Tìm hiểu về ngôn ngữ lập trình C#",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/18",
+      "hero_image": {
+        "image": "/assets/images/News/learn-about-the-c-programming-language/image2.jpg",
+        "alt": "Tìm hiểu về ngôn ngữ lập trình C#"
+      },
+      "tags": [
+        "C#",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "learn-about-the-c-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "PHP là gì? Tất tần tật kiến thức cần biết về ngôn ngữ PHP",
+      "title": "PHP là gì? Tất tần tật kiến thức cần biết về ngôn ngữ PHP",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/11",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-php-everything-you-need-to-know-about-php-language/image1.jpg",
+        "alt": "PHP là gì? Tất tần tật kiến thức cần biết về ngôn ngữ PHP"
+      },
+      "tags": [
+        "PHP",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "what-is-php-everything-you-need-to-know-about-php-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Kiến thức cơ bản cần biết về Python",
+      "title": "Kiến thức cơ bản cần biết về Python",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/4",
+      "hero_image": {
+        "image": "/assets/images/News/basic-knowledge-of-python/image1.jpg",
+        "alt": "Kiến thức cơ bản cần biết về Python"
+      },
+      "tags": [
+        "Python",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "basic-knowledge-of-python"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Web app là gì? Web app khác với website như thế nào?",
+      "title": "Web app là gì? Web app khác với website như thế nào?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/7/14",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-web-app-what-is-a-web-app-different-from-a-website/image2.jpg",
+        "alt": "Web app là gì? Web app khác với website như thế nào?"
+      },
+      "tags": ["web app", "website", "development", "technology"]
+    },
+    "slug": "what-is-a-web-app-what-is-a-web-app-different-from-a-website"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Java là gì? Tìm hiểu kiến thức cơ bản về ngôn ngữ lập trình Java",
+      "title": "Java là gì? Tìm hiểu kiến thức cơ bản về ngôn ngữ lập trình Java",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/7/07",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-java-learn-the-basics-of-the-java-programming-language/image2.jpg",
+        "alt": "Java là gì? Tìm hiểu kiến thức cơ bản về ngôn ngữ lập trình Java"
+      },
+      "tags": [
+        "Java",
+        "Webiste",
+        "development",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "what-is-java-learn-the-basics-of-the-java-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Ngôn ngữ Pascal là gì? Các phần tử cơ bản của Pascal Programming Language",
+      "title": "Ngôn ngữ Pascal là gì? Các phần tử cơ bản của Pascal Programming Language",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/30",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-pascal-language-basic-elements-of-pascal-programming-language/image2.jpg",
+        "alt": "Ngôn ngữ Pascal là gì? Các phần tử cơ bản của Pascal Programming Language"
+      },
+      "tags": []
+    },
+    "slug": "what-is-pascal-language-basic-elements-of-pascal-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "JavaScript và lý do tại sao nên thiết kế website bằng ngôn ngữ JavaScript",
+      "title": "JavaScript và lý do tại sao nên thiết kế website bằng ngôn ngữ JavaScript",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/23",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-javascript-why-should-you-develop-a-website-in-javascript/image2.jpg",
+        "alt": "JavaScript và lý do tại sao nên thiết kế website bằng ngôn ngữ JavaScript"
+      },
+      "tags": [
+        "JavaScript",
+        "Webiste",
+        "development",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "what-is-javascript-why-should-you-develop-a-website-in-javascript"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Cookies là gì? Hướng dẫn cách xóa, bật và quản lý cookies",
+      "title": "Cookies là gì? Hướng dẫn cách xóa, bật và quản lý cookies",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/16",
+      "hero_image": {
+        "image": "/assets/images/News/what-are-cookies-instructions-on-how-to-delete-enable-and-manage-cookies/image2.jpg",
+        "alt": "Cookies là gì? Hướng dẫn cách xóa, bật và quản lý cookies"
+      },
+      "tags": ["cookies", "browser", "website", "data", "instruction"]
+    },
+    "slug": "what-are-cookies-instructions-on-how-to-delete-enable-and-manage-cookies"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Wireframe là gì? Tại sao nên dùng Wireframe trong thiết kế website?",
+      "title": "Wireframe là gì? Tại sao nên dùng Wireframe trong thiết kế website?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/9",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-wireframe-why-should-we-use-wireframe-in-website-design/image2.jpg",
+        "alt": "Wireframe là gì? Tại sao nên dùng Wireframe trong thiết kế website?"
+      },
+      "tags": [
+        "wireframe",
+        "website",
+        "website design",
+        "website structure",
+        "development"
+      ]
+    },
+    "slug": "what-is-a-wireframe-why-should-we-use-wireframe-in-website-design"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Tester là gì? Các kỹ năng cần thiết để trở thành một tester giỏi",
+      "title": "Tester là gì? Các kỹ năng cần thiết để trở thành một tester giỏi",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/2",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-tester-necessary-skills-to-be-a-good-tester/image2.jpg",
+        "alt": "Tester là gì? Các kỹ năng cần thiết để trở thành một tester giỏi"
+      },
+      "tags": ["tester", "testing", "technology", "development", "software"]
+    },
+    "slug": "what-is-a-tester-necessary-skills-to-be-a-good-tester"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Prototype và cách thiết lập Prototype trong Javascript",
+      "title": "Prototype và cách thiết lập Prototype trong Javascript",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/5/26",
+      "hero_image": {
+        "image": "/assets/images/News/prototype-and-how-to-set-prototype-in-javascript/image2.jpg",
+        "alt": "Prototype và cách thiết lập Prototype trong Javascript"
+      },
+      "tags": ["prototype", "JavaScript", "technology", "development"]
+    },
+    "slug": "prototype-and-how-to-set-prototype-in-javascript"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Cùng tìm hiểu kiến thức về IoT",
+      "title": "Cùng tìm hiểu kiến thức về IoT",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/5/18",
+      "hero_image": {
+        "image": "/assets/images/News/learn-about-iot/image2.jpg",
+        "alt": "Cùng tìm hiểu kiến thức về IoT"
+      },
+      "tags": ["IoT", "Internet of Things", "technology", "development", "data"]
+    },
+    "slug": "learn-about-iot"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Flutter là gì? Tại sao nên sử dụng Flutter để phát triển ứng dụng?",
+      "title": "Flutter là gì? Tại sao nên sử dụng Flutter để phát triển ứng dụng?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/5/12",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-flutter-why-use-flutter-for-app-development/image1.jpg",
+        "alt": "Flutter là gì? Tại sao nên sử dụng Flutter để phát triển ứng dụng?"
+      },
+      "tags": ["flutter", "app", "mobile app", "Android", "iOS"]
+    },
+    "slug": "what-is-flutter-why-use-flutter-for-app-development"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Sự khác biệt giữa 2 mô hình Waterfall and Agile",
+      "title": "Sự khác biệt giữa 2 mô hình Waterfall and Agile",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/4/28",
+      "hero_image": {
+        "image": "/assets/images/News/the-difference-between-waterfall-and-agile-methodologies/image1.jpg",
+        "alt": "Sự khác biệt giữa 2 mô hình Waterfall and Agile"
+      },
+      "tags": ["waterfall", "agile", "development", "software", "developer"]
+    },
+    "slug": "the-difference-between-waterfall-and-agile-methodologies"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Backlinks là gì_Backlinks ảnh hưởng như thế nào tới thứ hạng website (SEO)",
+      "title": "Backlink là gì? Backlink ảnh hưởng như thế nào tới thứ hạng website (SEO)?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/4/21",
+      "hero_image": {
+        "image": "/assets/images/News/backlink-and-how-backlinks–affect–your–website–rankings-seo/image2.jpg",
+        "alt": "Backlinks là gì_Backlinks ảnh hưởng như thế nào tới thứ hạng website (SEO)"
+      },
+      "tags": ["backlink", "website", "seo", "ranking", "content"]
+    },
+    "slug": "backlink-and-how-backlinks–affect–your–website–rankings-seo"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Tác động của Web 3.0 đến Marketing và Advertising",
+      "title": "Tác động của Web 3.0 đến Marketing và Advertising",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/4/21",
+      "hero_image": {
+        "image": "/assets/images/News/the-impact-of-web-30-on-marketing-and-advertising/image2.jpg",
+        "alt": "Tác động của Web 3.0 đến Marketing và Advertising"
+      },
+      "tags": ["blockchain", "decentralization", "web3", "technology", "DApp"]
+    },
+    "slug": "the-impact-of-web-30-on-marketing-and-advertising"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Blockchain với sự phát triển của Web 3.0",
+      "title": "Blockchain với sự phát triển của Web 3.0",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/4/7",
+      "hero_image": {
+        "image": "/assets/images/News/blockchain-with-the-development-of-web-30/image2.jpg",
+        "alt": "Blockchain với sự phát triển của Web 3.0"
+      },
+      "tags": ["blockchain", "decentralization", "web3", "technology", "DApp"]
+    },
+    "slug": "blockchain-with-the-development-of-web-30"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Web 3.0 là gì và tại sao Web 3.0 trở nên quan trọng",
+      "title": "Web 3.0 là gì và tại sao Web 3.0 trở nên quan trọng",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/31",
+      "hero_image": {
+        "image": "/assets/images/News/what-web-30-is-and-why-web-30-is-important/image2.jpg",
+        "alt": "Web 3.0 là gì và tại sao Web 3.0 trở nên quan trọng"
+      },
+      "tags": ["blockchain", "decentralization", "web3", "technology", "DApp"]
+    },
+    "slug": "what-web-30-is-and-why-web-30-is-important"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Công nghệ Blockchain và những ứng dụng trong thực tế đời sống",
+      "title": "Công nghệ Blockchain và những ứng dụng trong thực tế đời sống",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/24",
+      "hero_image": {
+        "image": "/assets/images/News/blockchain-technology-and-how-people-use-it-in-real-life/image3.jpg",
+        "alt": "Công nghệ Blockchain và những ứng dụng trong thực tế đời sống"
+      },
+      "tags": [
+        "blockchain",
+        "decentralization",
+        "new technology",
+        "technology",
+        "DApp"
+      ]
+    },
+    "slug": "blockchain-technology-and-how-people-use-it-in-real-life"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Blockchain là gì? Blockchain được phát minh như thế nào?",
+      "title": "Blockchain là gì? Blockchain được phát minh như thế nào?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/17",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-blockchain-how-was-blockchain-technology-invented/image3.jpg",
+        "alt": "Blockchain là gì? Blockchain được phát minh như thế nào?"
+      },
+      "tags": [
+        "blockchain",
+        "decentralization",
+        "new technology",
+        "technology",
+        "DApp"
+      ]
+    },
+    "slug": "what-is-blockchain-how-was-blockchain-technology-invented"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Các ngôn ngữ lập trình ứng dụng IOS và Android phổ biến",
+      "title": "Các ngôn ngữ lập trình ứng dụng IOS và Android phổ biến",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/10",
+      "hero_image": {
+        "image": "/assets/images/News/popular-ios-and-android-application-programming-languages/image2.jpg",
+        "alt": "Các ngôn ngữ lập trình ứng dụng IOS và Android phổ biến"
+      },
+      "tags": [
+        "iOS",
+        "Android",
+        "ứng dụng di động",
+        "ngôn ngữ lập trình",
+        "mobile app"
+      ]
+    },
+    "slug": "popular-ios-and-android-application-programming-languages"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Quy trình thiết kế ứng dụng trọn gói theo yêu cầu",
+      "title": "Quy trình thiết kế ứng dụng trọn gói theo yêu cầu",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/3",
+      "hero_image": {
+        "image": "/assets/images/News/mobile-application-design-process/image1.jpg",
+        "alt": "Quy trình thiết kế ứng dụng trọn gói theo yêu cầu"
+      },
+      "tags": [
+        "App",
+        "mobile app",
+        "app development",
+        "app design",
+        "iOS",
+        "Android"
+      ]
+    },
+    "slug": "mobile-application-design-process"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Phân biệt giữa Native App, Cross Platform và Hybrid App",
+      "title": "Phân biệt giữa Native App, Cross Platform và Hybrid App",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/2/27",
+      "hero_image": {
+        "image": "/assets/images/News/differences-between-native-app-cross-platform-and-hybrid-app/image3.jpg",
+        "alt": "Phân biệt giữa Native App, Cross Platform và Hybrid App"
+      },
+      "tags": [
+        "App",
+        "mobile app",
+        "app developmen",
+        "native app",
+        "cross platform",
+        "hybrid"
+      ]
+    },
+    "slug": "differences-between-native-app-cross-platform-and-hybrid-app"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Mobile App là gì_Chức năng và lý do vì sao doanh nghiệp nên thiết kế app",
+      "title": "Mobile App là gì? Chức năng và lý do vì sao doanh nghiệp nên thiết kế app",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/25",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-mobile-app-functions-and-reasons-why-businesses-should-design-an-app/image2.jpg",
+        "alt": "Mobile App là gì? Chức năng và lý do vì sao doanh nghiệp nên thiết kế app"
+      },
+      "tags": [
+        "thiết kế app",
+        "App",
+        "mobile app",
+        "nhận diện thương hiệu",
+        "trải nghiệm người dùng"
+      ]
+    },
+    "slug": "what-is-mobile-app-functions-and-reasons-why-businesses-should-design-an-app"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Top 10 ngôn ngữ lập trình phần mềm đơn giản, dễ học cho người mới",
+      "title": "Top 10 ngôn ngữ lập trình phần mềm đơn giản, dễ học cho người mới",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/21",
+      "hero_image": {
+        "image": "/assets/images/News/top-10-simple-software-programming-languages-easy-to-learn-for-newbies/image3.jpg",
+        "alt": "Top 10 ngôn ngữ lập trình phần mềm đơn giản, dễ học cho người mới"
+      },
+      "tags": [
+        "JavaScript",
+        "Website",
+        "ngôn ngữ lập trình",
+        "Ruby",
+        "Python",
+        "PHP"
+      ]
+    },
+    "slug": "top-10-simple-software-programming-languages-easy-to-learn-for-newbies"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Định nghĩa Pagination_Tầm quan trọng của triển khai phân trang",
+      "title": "Định nghĩa Pagination? Tầm quan trọng của triển khai phân trang",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/19",
+      "hero_image": {
+        "image": "/assets/images/News/pagination-definition-the-importance-of-pagination-implementation/image3.jpg",
+        "alt": "Định nghĩa Pagination? Tầm quan trọng của triển khai phân trang"
+      },
+      "tags": [
+        "quản trị website",
+        "content",
+        "pagination",
+        "phân trang",
+        "Website"
+      ]
+    },
+    "slug": "pagination-definition-the-importance-of-pagination-implementation"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Những thuật ngữ trong thiết kế website bạn nên biết",
+      "title": "Những thuật ngữ trong thiết kế website bạn nên biết",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/14",
+      "hero_image": {
+        "image": "/assets/images/News/web-design-terms-you-should-know/image4.jpg",
+        "alt": "Những thuật ngữ trong thiết kế website bạn nên biết"
+      },
+      "tags": [
+        "website development",
+        "Website",
+        "website design",
+        "website term"
+      ]
+    },
+    "slug": "web-design-terms-you-should-know"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Định nghĩa và tầm quan trọng của Quản trị website",
+      "title": "Quản trị website là gì? Tầm quan trọng của quản trị website",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/12",
+      "hero_image": {
+        "image": "/assets/images/News/the-definition-and-the-importance-of-website-administration/image2.jpg",
+        "alt": "Quản trị website là gì? Tầm quan trọng của quản trị website"
+      },
+      "tags": [
+        "Website",
+        "Website",
+        "website administration",
+        "website administrator"
+      ]
+    },
+    "slug": "the-definition-and-the-importance-of-website-administration"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Sitemap và tầm quan trọng của sitemap đối với website",
+      "title": "Sitemap và tầm quan trọng của sitemap đối với website",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/5",
+      "hero_image": {
+        "image": "/assets/images/News/sitemap-and-the-importance-of-the-sitemap-to-a-website/image1.jpg",
+        "alt": "Sitemap và tầm quan trọng của sitemap đối với website"
+      },
+      "tags": ["sitemap", "Website", "website structure"]
+    },
+    "slug": "sitemap-and-the-importance-of-the-sitemap-to-a-website"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Web hosting là gì? Vai trò của dịch vụ Web Hosting",
+      "title": "Web Hosting là gì? Vai trò của dịch vụ Web Hosting",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/6/30",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-web-hosting-the-importance-of-web-hosting-service/image3.jpg",
+        "alt": "Web Hosting là gì? Vai trò của dịch vụ Web Hosting"
+      },
+      "tags": [
+        "web hosting",
+        "Website",
+        "Shared Hosting",
+        "VPS Hosting",
+        "Cloud Hosting",
+        "WordPress Hosting",
+        "Dedicated Server Hosting"
+      ]
+    },
+    "slug": "what-is-web-hosting-the-importance-of-web-hosting-service"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Tên miền website là gì? Làm thế nào để sở hữu tên miền?",
+      "title": "Tên miền là gì? Làm thế nào để sở hữu tên miền?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/6/28",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-website-domain-how-to-own-a-domain/image2.jpg",
+        "alt": "Tên miền là gì? Làm thế nào để sở hữu tên miền?"
+      },
+      "tags": ["Website", "domain"]
+    },
+    "slug": "what-is-a-website-domain-how-to-own-a-domain"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Quy trình thiết kế website - Các bước thiết kế website chuyên nghiệp",
+      "title": "Quy trình thiết kế website - Các bước thiết kế website chuyên nghiệp",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/6/22",
+      "hero_image": {
+        "image": "/assets/images/News/website-design-process-professional-website-design-steps/image3.jpg",
+        "alt": "Quy trình thiết kế website - Các bước thiết kế website chuyên nghiệp"
+      },
+      "tags": [
+        "wordpress",
+        "Website",
+        "website structure",
+        "domain",
+        "web hosting",
+        "sitemap"
+      ]
+    },
+    "slug": "website-design-process-professional-website-design-steps"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Website là gì? Tìm hiểu về cấu tạo của website?",
+      "title": "Website là gì? Tìm hiểu về cấu tạo của website?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/6/20",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-website-what-is-the-structure-of-a-website/image2.jpg",
+        "alt": "Website là gì? Tìm hiểu về cấu tạo của website?"
+      },
+      "tags": [
+        "Website",
+        "website development",
+        "source code",
+        "web hosting",
+        "domain"
+      ]
+    },
+    "slug": "what-is-website-what-is-the-structure-of-a-website"
+  }
+]

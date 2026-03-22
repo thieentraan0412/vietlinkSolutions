@@ -1,0 +1,970 @@
+[
+  {
+    "frontMatter": {
+      "title_thumbnail": "No Code vs. Low Code vs. Traditional Development: should you choose only one?",
+      "title": "No Code vs. Low Code vs. Traditional Development: should you choose only one?",
+      "description": "Delving into the characteristics of different software development approaches, and exploring which one is the right choice for whom.",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2024/6/10",
+      "hero_image": {
+        "image": "/assets/images/News/no-code-vs-low-code-vs-traditional-development-should-you-choose-only-one/image1.jpg",
+        "alt": "No Code vs. Low Code vs. Traditional Development: should you choose only one?"
+      },
+      "tags": []
+    },
+    "slug": "no-code-vs-low-code-vs-traditional-development-should-you-choose-only-one"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Quality Assurance When Outsourcing Software Development",
+      "title": "Quality Assurance When Outsourcing Software Development",
+      "description": "Explore how to ensure quality in outsourced enterprise software development projects",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2024/6/10",
+      "hero_image": {
+        "image": "/assets/images/News/quality-assurance-when-outsourcing-software-development/image1.jpg",
+        "alt": "Quality Assurance When Outsourcing Software Development"
+      },
+      "tags": []
+    },
+    "slug": "quality-assurance-when-outsourcing-software-development"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Tech Stack for Your Mobile App: How to Choose the Right Combo",
+      "title": "Tech Stack for Your Mobile App: How to Choose the Right Combo",
+      "description": "Explore how to choose the right tech stack for your mobile app development to ensure optimal performance, scalability, and maintainability.",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2024/6/10",
+      "hero_image": {
+        "image": "/assets/images/News/tech-stack-for-your-mobile-app-how-to-choose-the-right-combo/image1.jpg",
+        "alt": "Tech Stack for Your Mobile App: How to Choose the Right Combo"
+      },
+      "tags": []
+    },
+    "slug": "tech-stack-for-your-mobile-app-how-to-choose-the-right-combo"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "The (Hidden) Costs of Outsourcing Software Development: What to expect",
+      "title": "The (Hidden) Costs of Outsourcing Software Development: What to expect",
+      "description": "Taking a look into the less obvious expenses associated with outsourcing website and app development services, and how to manage them.",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2024/6/10",
+      "hero_image": {
+        "image": "/assets/images/News/the-hidden-costs-of-outsourcing-software-development-what-to-expect/image1.jpg",
+        "alt": "The (Hidden) Costs of Outsourcing Software Development: What to expect"
+      },
+      "tags": []
+    },
+    "slug": "the-hidden-costs-of-outsourcing-software-development-what-to-expect"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "SSL and the role of SSL security certificate with Website",
+      "title": "SSL and the role of SSL security certificate with Website",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2024/1/5",
+      "hero_image": {
+        "image": "/assets/images/News/ssl-and-the-role-of-ssl-security-certificate-with-website/image1.jpg",
+        "alt": "SSL and the role of SSL security certificate with Website"
+      },
+      "tags": ["SSL", "SSL security certificates", "development", "technology"]
+    },
+    "slug": "ssl-and-the-role-of-ssl-security-certificate-with-website"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "The role of Proof Of Concept in many fields you should know",
+      "title": "The role of Proof Of Concept in many fields you should know",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/12/29",
+      "hero_image": {
+        "image": "/assets/images/News/the-role-of-proof-of-concept-in-many-fields-you-should-know/image1.jpg",
+        "alt": "The role of Proof Of Concept in many fields you should know"
+      },
+      "tags": ["Proof of Concept", "development", "technology"]
+    },
+    "slug": "the-role-of-proof-of-concept-in-many-fields-you-should-know"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Basic knowledge of Visual Basic (VB) language",
+      "title": "Basic knowledge of Visual Basic (VB) language",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/12/15",
+      "hero_image": {
+        "image": "/assets/images/News/basic-knowledge-of-visual-basic-vb-language/image1.jpg",
+        "alt": "Basic knowledge of Visual Basic (VB) language"
+      },
+      "tags": [
+        "Visual Basic",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "basic-knowledge-of-visual-basic-vb-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Learn about Ubuntu operating system",
+      "title": "Learn about Ubuntu operating system",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/12/1",
+      "hero_image": {
+        "image": "/assets/images/News/learn-about-ubuntu-operating-system/image1.jpg",
+        "alt": "Learn about Ubuntu operating system"
+      },
+      "tags": [
+        "Ubuntu",
+        "operating system",
+        "hệ điều hành",
+        "development",
+        "technology"
+      ]
+    },
+    "slug": "learn-about-ubuntu-operating-system"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is IP? Structures and common types of IP addresses",
+      "title": "What is IP? Structures and common types of IP addresses",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/11/24",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-ip-structures-and-common-types-of-ip-addresses/image1.jpg",
+        "alt": "What is IP? Structures and common types of IP addresses"
+      },
+      "tags": ["IP", "IP address", "development", "technology"]
+    },
+    "slug": "what-is-ip-structures-and-common-types-of-ip-addresses"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is NGINX? What you need to know about NGINX Server",
+      "title": "What is NGINX? What you need to know about NGINX Server",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/11/17",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-nginx-what-you-need-to-know-about-nginx-server/image1.jpg",
+        "alt": "What is NGINX? What you need to know about NGINX Server"
+      },
+      "tags": ["Server", "NGINX", "development", "technology"]
+    },
+    "slug": "what-is-nginx-what-you-need-to-know-about-nginx-server"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "The most outstanding features of Visual Studio Code and practical examples",
+      "title": "The most outstanding features of Visual Studio Code and practical examples",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/11/3",
+      "hero_image": {
+        "image": "/assets/images/News/the-most-outstanding-features-of-visual-studio-code-and-practical-examples/image1.jpg",
+        "alt": "The most outstanding features of Visual Studio Code and practical examples"
+      },
+      "tags": [
+        "Code",
+        "Coding",
+        "Visual Studio Code",
+        "development",
+        "technology"
+      ]
+    },
+    "slug": "the-most-outstanding-features-of-visual-studio-code-and-practical-examples"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is Code Convention? Common syntaxes of Code Convention",
+      "title": "What is Code Convention? Common syntaxes of Code Convention",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/11/3",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-code-convention-common-syntaxes-of-code-convention/image1.jpg",
+        "alt": "What is Code Convention? Common syntaxes of Code Convention"
+      },
+      "tags": ["Code", "Coding", "Code convention", "development", "technology"]
+    },
+    "slug": "what-is-code-convention-common-syntaxes-of-code-convention"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "IPv4 and IPv6 – Learn about two popular network protocols on the Internet",
+      "title": "IPv4 and IPv6 – Learn about two popular network protocols on the Internet",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/10/27",
+      "hero_image": {
+        "image": "/assets/images/News/pv4-and-ipv6-learn-about-two-popular-network-protocols-on-the-internet/image1.jpg",
+        "alt": "IPv4 and IPv6 – Learn about two popular network protocols on the Internet"
+      },
+      "tags": ["IPv4", "IPv6", "internet", "technology", "development"]
+    },
+    "slug": "pv4-and-ipv6-learn-about-two-popular-network-protocols-on-the-internet"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is OOP? Fundamentals of Object Oriented Programming",
+      "title": "What is OOP? Fundamentals of Object Oriented Programming",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/10/20",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-oop-fundamentals-of-object-oriented-programming/image1.jpg",
+        "alt": "What is OOP? Fundamentals of Object Oriented Programming"
+      },
+      "tags": ["OOP", "software", "development", "developer", "technology"]
+    },
+    "slug": "what-is-oop-fundamentals-of-object-oriented-programming"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Overview of the software development process",
+      "title": "Overview of the software development process",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/10/13",
+      "hero_image": {
+        "image": "/assets/images/News/overview-of-the-software-development-process/image2.jpg",
+        "alt": "Overview of the software development process"
+      },
+      "tags": ["backlink", "website", "seo", "ranking", "content"]
+    },
+    "slug": "overview-of-the-software-development-process"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is the operating system? The most popular computer operating systems",
+      "title": "What is the operating system? The most popular computer operating systems",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/10/5",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-the-operating-system-the-most-popular-computer-operating-systems/image4.jpg",
+        "alt": "What is the operating system? The most popular computer operating systems"
+      },
+      "tags": ["operating system", "hệ điều hành", "development", "technology"]
+    },
+    "slug": "what-is-the-operating-system-the-most-popular-computer-operating-systems"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is a remote job? Difference between remote jobs and freelancers",
+      "title": "What is a remote job? Difference between remote jobs and freelancers",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/9/29",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-remote-job-difference-between-remote-jobs-and-freelancers/image1.jpg",
+        "alt": "What is a remote job? Difference between remote jobs and freelancers"
+      },
+      "tags": ["remote job", "freelancer", "developer"]
+    },
+    "slug": "what-is-a-remote-job-difference-between-remote-jobs-and-freelancers"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Learn about Assembly programming language",
+      "title": "Learn about Assembly programming language",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/9/22",
+      "hero_image": {
+        "image": "/assets/images/News/learn-about-assembly-programming-language/image1.jpg",
+        "alt": "Learn about Assembly programming language"
+      },
+      "tags": [
+        "Assembly",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "learn-about-assembly-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "All you need to know about the C++ programming language",
+      "title": "All you need to know about the C++ programming language",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/9/8",
+      "hero_image": {
+        "image": "/assets/images/News/all-you-need-to-know-about-the-C-programming-language/image2.jpg",
+        "alt": "All you need to know about the C++ programming language"
+      },
+      "tags": [
+        "C++",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "all-you-need-to-know-about-the-C-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Top 10 most used PHP Frameworks nowaday (Part 2)",
+      "title": "Top 10 most used PHP Frameworks nowaday (Part 2)",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/31",
+      "hero_image": {
+        "image": "/assets/images/News/top-10-most-used-php-frameworks-nowaday-part-2/image4.jpg",
+        "alt": "Top 10 most used PHP Frameworks nowaday (Part 2)"
+      },
+      "tags": [
+        "PHP",
+        "Framework",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "top-10-most-used-php-frameworks-nowaday-part-2"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Top 10 most used PHP Frameworks nowaday (Part 1)",
+      "title": "Top 10 most used PHP Frameworks nowaday (Part 1)",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/24",
+      "hero_image": {
+        "image": "/assets/images/News/top-10-most-used-php-frameworks-nowaday-part-1/image2.jpg",
+        "alt": "Top 10 most used PHP Frameworks nowaday (Part 1)"
+      },
+      "tags": [
+        "PHP",
+        "Framework",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "top-10-most-used-php-frameworks-nowaday-part-1"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Learn about the C# programming language",
+      "title": "Learn about the C# programming language",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/18",
+      "hero_image": {
+        "image": "/assets/images/News/learn-about-the-c-programming-language/image2.jpg",
+        "alt": "Learn about the C# programming language"
+      },
+      "tags": [
+        "C#",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "learn-about-the-c-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is PHP? Everything you need to know about PHP language",
+      "title": "What is PHP? Everything you need to know about PHP language",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/11",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-php-everything-you-need-to-know-about-php-language/image1.jpg",
+        "alt": "What is PHP? Everything you need to know about PHP language"
+      },
+      "tags": [
+        "PHP",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "what-is-php-everything-you-need-to-know-about-php-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Basic knowledge of Python",
+      "title": "Basic knowledge of Python",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/8/4",
+      "hero_image": {
+        "image": "/assets/images/News/basic-knowledge-of-python/image1.jpg",
+        "alt": "Basic knowledge of Python"
+      },
+      "tags": [
+        "Python",
+        "development",
+        "developer",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "basic-knowledge-of-python"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is a web app? What is a web app different from a website?",
+      "title": "What is a web app? What is a web app different from a website?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/7/14",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-web-app-what-is-a-web-app-different-from-a-website/image2.jpg",
+        "alt": "What is a web app? What is a web app different from a website?"
+      },
+      "tags": ["web app", "website", "development", "technology"]
+    },
+    "slug": "what-is-a-web-app-what-is-a-web-app-different-from-a-website"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is Java? Learn the basics of the Java programming language",
+      "title": "What is Java? Learn the basics of the Java programming language",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/7/07",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-java-learn-the-basics-of-the-java-programming-language/image2.jpg",
+        "alt": "What is Java? Learn the basics of the Java programming language"
+      },
+      "tags": [
+        "Java",
+        "Webiste",
+        "development",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "what-is-java-learn-the-basics-of-the-java-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is Pascal language? Basic Elements of Pascal Programming Language",
+      "title": "What is Pascal language? Basic Elements of Pascal Programming Language",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/30",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-pascal-language-basic-elements-of-pascal-programming-language/image2.jpg",
+        "alt": "What is Pascal language? Basic Elements of Pascal Programming Language"
+      },
+      "tags": []
+    },
+    "slug": "what-is-pascal-language-basic-elements-of-pascal-programming-language"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is JavaScript? Why should you develop a website in JavaScript?",
+      "title": "What is JavaScript? Why should you develop a website in JavaScript?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/23",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-javascript-why-should-you-develop-a-website-in-javascript/image2.jpg",
+        "alt": "What is JavaScript? Why should you develop a website in JavaScript?"
+      },
+      "tags": [
+        "JavaScript",
+        "Webiste",
+        "development",
+        "ngôn ngữ lập trình",
+        "programming language"
+      ]
+    },
+    "slug": "what-is-javascript-why-should-you-develop-a-website-in-javascript"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What are cookies? Instructions on how to delete, enable and manage cookies",
+      "title": "What are cookies? Instructions on how to delete, enable and manage cookies",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/16",
+      "hero_image": {
+        "image": "/assets/images/News/what-are-cookies-instructions-on-how-to-delete-enable-and-manage-cookies/image2.jpg",
+        "alt": "What are cookies? Instructions on how to delete, enable and manage cookies"
+      },
+      "tags": ["cookies", "browser", "website", "data", "instruction"]
+    },
+    "slug": "what-are-cookies-instructions-on-how-to-delete-enable-and-manage-cookies"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is a wireframe? Why should we use Wireframe in website design?",
+      "title": "What is a wireframe? Why should we use Wireframe in website design?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/9",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-wireframe-why-should-we-use-wireframe-in-website-design/image2.jpg",
+        "alt": "What is a wireframe? Why should we use Wireframe in website design?"
+      },
+      "tags": [
+        "wireframe",
+        "website",
+        "website design",
+        "website structure",
+        "development"
+      ]
+    },
+    "slug": "what-is-a-wireframe-why-should-we-use-wireframe-in-website-design"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is a Tester? Necessary skills to be a good Tester",
+      "title": "What is a Tester? Necessary skills to be a good Tester",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/6/2",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-tester-necessary-skills-to-be-a-good-tester/image2.jpg",
+        "alt": "What is a Tester? Necessary skills to be a good Tester"
+      },
+      "tags": ["tester", "testing", "technology", "development", "software"]
+    },
+    "slug": "what-is-a-tester-necessary-skills-to-be-a-good-tester"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Prototype and how to set Prototype in Javascript",
+      "title": "Prototype and how to set Prototype in Javascript",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/5/26",
+      "hero_image": {
+        "image": "/assets/images/News/prototype-and-how-to-set-prototype-in-javascript/image2.jpg",
+        "alt": "Prototype and how to set Prototype in Javascript"
+      },
+      "tags": ["prototype", "JavaScript", "technology", "development"]
+    },
+    "slug": "prototype-and-how-to-set-prototype-in-javascript"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Learn about IoT",
+      "title": "Learn about IoT",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/5/18",
+      "hero_image": {
+        "image": "/assets/images/News/learn-about-iot/image2.jpg",
+        "alt": "Learn about IoT"
+      },
+      "tags": ["IoT", "Internet of Things", "technology", "development", "data"]
+    },
+    "slug": "learn-about-iot"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is Flutter? Why use Flutter for app development?",
+      "title": "What is Flutter? Why use Flutter for app development?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/5/12",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-flutter-why-use-flutter-for-app-development/image1.jpg",
+        "alt": "What is Flutter? Why use Flutter for app development?"
+      },
+      "tags": ["flutter", "app", "mobile app", "Android", "iOS"]
+    },
+    "slug": "what-is-flutter-why-use-flutter-for-app-development"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "The difference between Waterfall and Agile methodologies",
+      "title": "The difference between Waterfall and Agile methodologies",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/4/28",
+      "hero_image": {
+        "image": "/assets/images/News/the-difference-between-waterfall-and-agile-methodologies/image1.jpg",
+        "alt": "The difference between Waterfall and Agile methodologies"
+      },
+      "tags": ["waterfall", "agile", "development", "software", "developer"]
+    },
+    "slug": "the-difference-between-waterfall-and-agile-methodologies"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Backlink and how Backlinks affect your website rankings (SEO)",
+      "title": "What is Backlink? How do Backlinks affect your website rankings (SEO)?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/4/21",
+      "hero_image": {
+        "image": "/assets/images/News/backlink-and-how-backlinks–affect–your–website–rankings-seo/image2.jpg",
+        "alt": "Backlink and how Backlinks affect your website rankings (SEO)"
+      },
+      "tags": ["backlink", "website", "seo", "ranking", "content"]
+    },
+    "slug": "backlink-and-how-backlinks–affect–your–website–rankings-seo"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "The Impact of Web 3.0 on Marketing and Advertising",
+      "title": "The Impact of Web 3.0 on Marketing and Advertising",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/4/21",
+      "hero_image": {
+        "image": "/assets/images/News/the-impact-of-web-30-on-marketing-and-advertising/image2.jpg",
+        "alt": "The Impact of Web 3.0 on Marketing and Advertising"
+      },
+      "tags": ["blockchain", "decentralization", "web3", "technology", "DApp"]
+    },
+    "slug": "the-impact-of-web-30-on-marketing-and-advertising"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Blockchain with the development of Web 3.0",
+      "title": "Blockchain with the development of Web 3.0",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/4/7",
+      "hero_image": {
+        "image": "/assets/images/News/blockchain-with-the-development-of-web-30/image2.jpg",
+        "alt": "Blockchain with the development of Web 3.0"
+      },
+      "tags": ["blockchain", "decentralization", "web3", "technology", "DApp"]
+    },
+    "slug": "blockchain-with-the-development-of-web-30"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What Web 3.0 is and why Web 3.0 is important",
+      "title": "What Web 3.0 is and why Web 3.0 is important",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/31",
+      "hero_image": {
+        "image": "/assets/images/News/what-web-30-is-and-why-web-30-is-important/image2.jpg",
+        "alt": "What Web 3.0 is and why Web 3.0 is important"
+      },
+      "tags": ["blockchain", "decentralization", "web3", "technology", "DApp"]
+    },
+    "slug": "what-web-30-is-and-why-web-30-is-important"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Blockchain technology and how people use it in real life",
+      "title": "Blockchain technology and how people use it in real life",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/24",
+      "hero_image": {
+        "image": "/assets/images/News/blockchain-technology-and-how-people-use-it-in-real-life/image3.jpg",
+        "alt": "Blockchain technology and how people use it in real life"
+      },
+      "tags": [
+        "blockchain",
+        "decentralization",
+        "new technology",
+        "technology",
+        "DApp"
+      ]
+    },
+    "slug": "blockchain-technology-and-how-people-use-it-in-real-life"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is Blockchain? How was blockchain technology invented?",
+      "title": "What is Blockchain? How was blockchain technology invented?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/17",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-blockchain-how-was-blockchain-technology-invented/image3.jpg",
+        "alt": "What is Blockchain? How was blockchain technology invented?"
+      },
+      "tags": [
+        "blockchain",
+        "decentralization",
+        "new technology",
+        "technology",
+        "DApp"
+      ]
+    },
+    "slug": "what-is-blockchain-how-was-blockchain-technology-invented"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Popular iOS and Android application programming languages",
+      "title": "Popular iOS and Android application programming languages",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/10",
+      "hero_image": {
+        "image": "/assets/images/News/popular-ios-and-android-application-programming-languages/image2.jpg",
+        "alt": "Popular iOS and Android application programming languages"
+      },
+      "tags": [
+        "iOS",
+        "Android",
+        "ứng dụng di động",
+        "ngôn ngữ lập trình",
+        "mobile app"
+      ]
+    },
+    "slug": "popular-ios-and-android-application-programming-languages"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Mobile application design process",
+      "title": "Mobile application design process",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/3/3",
+      "hero_image": {
+        "image": "/assets/images/News/mobile-application-design-process/image1.jpg",
+        "alt": "Mobile application design process"
+      },
+      "tags": [
+        "App",
+        "mobile app",
+        "app development",
+        "app design",
+        "iOS",
+        "Android"
+      ]
+    },
+    "slug": "mobile-application-design-process"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Differences between Native App, Cross Platform and Hybrid App",
+      "title": "Differences between Native App, Cross Platform and Hybrid App",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2023/2/27",
+      "hero_image": {
+        "image": "/assets/images/News/differences-between-native-app-cross-platform-and-hybrid-app/image3.jpg",
+        "alt": "Differences between Native App, Cross Platform and Hybrid App"
+      },
+      "tags": [
+        "App",
+        "mobile app",
+        "app development",
+        "native app",
+        "cross platform",
+        "hybrid"
+      ]
+    },
+    "slug": "differences-between-native-app-cross-platform-and-hybrid-app"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is Mobile App_Functions and reasons why businesses should design an app",
+      "title": "What is a Mobile App? Functions and reasons why businesses should design an app",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/26",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-mobile-app-functions-and-reasons-why-businesses-should-design-an-app/image2.jpg",
+        "alt": "What is a Mobile App? Functions and reasons why businesses should design an app"
+      },
+      "tags": [
+        "app development",
+        "App",
+        "mobile app",
+        "brand awareness",
+        "user experience"
+      ]
+    },
+    "slug": "what-is-mobile-app-functions-and-reasons-why-businesses-should-design-an-app"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Top 10 simple software programming languages, easy to learn for newbies",
+      "title": "Top 10 simple software programming languages, easy to learn for newbies",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/22",
+      "hero_image": {
+        "image": "/assets/images/News/top-10-simple-software-programming-languages-easy-to-learn-for-newbies/image3.jpg",
+        "alt": "Top 10 simple software programming languages, easy to learn for newbies"
+      },
+      "tags": [
+        "JavaScript",
+        "Website",
+        "ngôn ngữ lập trình",
+        "Ruby",
+        "Python",
+        "PHP"
+      ]
+    },
+    "slug": "top-10-simple-software-programming-languages-easy-to-learn-for-newbies"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Pagination definition_The importance of pagination implementation",
+      "title": "Pagination definition_The importance of pagination implementation",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/20",
+      "hero_image": {
+        "image": "/assets/images/News/pagination-definition-the-importance-of-pagination-implementation/image3.jpg",
+        "alt": "Pagination definition_The importance of pagination implementation"
+      },
+      "tags": ["website administrator", "content", "pagination", "Website"]
+    },
+    "slug": "pagination-definition-the-importance-of-pagination-implementation"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Web design terms you should know",
+      "title": "Web design terms you should know",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/15",
+      "hero_image": {
+        "image": "/assets/images/News/web-design-terms-you-should-know/image4.jpg",
+        "alt": "Web design terms you should know"
+      },
+      "tags": [
+        "website development",
+        "Website",
+        "website design",
+        "website term"
+      ]
+    },
+    "slug": "web-design-terms-you-should-know"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "The definition and the importance of website administration",
+      "title": "The definition and the importance of website administration",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/13",
+      "hero_image": {
+        "image": "/assets/images/News/the-definition-and-the-importance-of-website-administration/image2.jpg",
+        "alt": "The definition and the importance of website administration"
+      },
+      "tags": [
+        "Website",
+        "Website",
+        "website administration",
+        "website administrator"
+      ]
+    },
+    "slug": "the-definition-and-the-importance-of-website-administration"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Sitemap and the importance of the sitemap to a website",
+      "title": "Sitemap and the importance of the sitemap to a website",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/6",
+      "hero_image": {
+        "image": "/assets/images/News/sitemap-and-the-importance-of-the-sitemap-to-a-website/image1.jpg",
+        "alt": "Sitemap and the importance of the sitemap to a website"
+      },
+      "tags": ["sitemap", "Website", "website structure"]
+    },
+    "slug": "sitemap-and-the-importance-of-the-sitemap-to-a-website"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is web hosting? The importance of Web Hosting service",
+      "title": "What is Web Hosting? The importance of Web Hosting service",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/4",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-web-hosting-the-importance-of-web-hosting-service/image3.jpg",
+        "alt": "What is Web Hosting? The importance of Web Hosting service"
+      },
+      "tags": [
+        "web hosting",
+        "Website",
+        "Shared Hosting",
+        "VPS Hosting",
+        "Cloud Hosting",
+        "WordPress Hosting",
+        "Dedicated Server Hosting"
+      ]
+    },
+    "slug": "what-is-web-hosting-the-importance-of-web-hosting-service"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is a domain? How to own a domain?",
+      "title": "What is the domain? How to own a domain?",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/7/1",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-a-website-domain-how-to-own-a-domain/image2.jpg",
+        "alt": "What is the domain? How to own a domain?"
+      },
+      "tags": ["Website", "domain"]
+    },
+    "slug": "what-is-a-website-domain-how-to-own-a-domain"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "Website design process – Professional website design steps",
+      "title": "Website design process – Professional website design steps",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/6/24",
+      "hero_image": {
+        "image": "/assets/images/News/website-design-process-professional-website-design-steps/image3.jpg",
+        "alt": "Website design process – Professional website design steps"
+      },
+      "tags": [
+        "wordpress",
+        "Website",
+        "website structure",
+        "domain",
+        "web hosting",
+        "sitemap"
+      ]
+    },
+    "slug": "website-design-process-professional-website-design-steps"
+  },
+  {
+    "frontMatter": {
+      "title_thumbnail": "What is website? What is the structure of a website?",
+      "title": "What is a Website? Let’s learn about the structure of the website",
+      "sub_title": null,
+      "author": "Vietlink content team",
+      "published_at": "2022/6/24",
+      "hero_image": {
+        "image": "/assets/images/News/what-is-website-what-is-the-structure-of-a-website/image2.jpg",
+        "alt": "What is a Website? Let’s learn about the structure of the website"
+      },
+      "tags": [
+        "Website",
+        "website development",
+        "source code",
+        "web hosting",
+        "domain"
+      ]
+    },
+    "slug": "what-is-website-what-is-the-structure-of-a-website"
+  }
+]

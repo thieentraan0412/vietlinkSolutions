@@ -1,0 +1,73 @@
+.mySwiper_Career1 .swiper {
+    width: 100%;
+    height: 288px;
+  }
+  
+  .mySwiper_Career1 .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+ .mySwiper_Career1 .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+  
+
+
+  .mySwiper_Career3 .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .mySwiper_Career3 .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    /* scale: 1.2; */
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+  }
+  
+  .mySwiper_Career3 .swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Hoặc sử dụng 'contain' */
+    transition: transform 0.3s ease; 
+    border-radius: 36px;
+    
+  }
+  .mySwiper_Career3 .swiper-pagination-bullet {
+    display: none;
+  }
+  
+  .mySwiper_Career3 .swiper-slide {
+    width: 55%;
+  }
+  
+  .mySwiper_Career3 .swiper-slide:nth-child(2n) {
+    width: 55%;
+  }
+  
+  .mySwiper_Career3 .swiper-slide:nth-child(3n) {
+    width: 55%;
+  }
+  /* .mySwiper_Career3 .swiper-slide swiper-slide-next{
+    width: 20%;
+  }
+   */
+  .mySwiper_Career3 .swiper-slide-active img {
+    transform: scaleY(1.2); 
+  }

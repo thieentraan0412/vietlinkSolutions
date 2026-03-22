@@ -1,0 +1,74 @@
+@keyframes expandBackground {
+  0% {
+    top: 0;
+    right: 0;
+    width: 0%;
+    height: 0;
+    border-bottom-left-radius: 100%;
+    overflow: hidden;
+  }
+  100% {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    border-bottom-left-radius: 0;
+    overflow: hidden;
+  }
+}
+.clickfunc {
+  animation: expandBackground 0.5s ease-in-out;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #323232;
+}
+
+@media (min-width: 1024px) {
+  .clickfunc {
+    animation: none;
+    background-color: white;
+    position: static;
+  }
+  .my-custom-class {
+    overflow: auto;
+  }
+  /* .header-bg-color {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  } */
+}
+.header-bg-color
+{
+  background-color: transparent;
+}
+
+/* @keyframes closeBackground {
+  100% {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    border-bottom-left-radius: 0%;
+  }
+  0% {
+    top: 0;
+    right: 0;
+    width: 0%;
+    height: 0;
+    border-bottom-left-radius: 100%;
+  }
+}
+.unclickfunc {
+  animation: expandBackground 5s ease;
+  animation-duration: 2s;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #323232;
+} */

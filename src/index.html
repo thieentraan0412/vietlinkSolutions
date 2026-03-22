@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Grid Layout with Tailwind CSS</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.0/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-900">
+  <div class="container mx-auto p-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-10 gap-4">
+      <div class="sm:col-span-2 md:col-span-7 bg-blue-200 p-4">
+        <h2 class="text-2xl font-bold">Cột 1 (70%)</h2>
+        <p>Nội dung của cột 1...</p>
+      </div>
+      <div class="sm:col-span-2 md:col-span-3 bg-green-200 p-4">
+        <h2 class="text-2xl font-bold">Cột 2 (30%)</h2>
+        <p>Nội dung của cột 2...</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

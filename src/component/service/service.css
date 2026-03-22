@@ -1,0 +1,21 @@
+@media (max-width:768px) {
+    .service_img{
+        transform: rotate(90deg);
+    }
+    
+}
+.rotate-image {
+    transition: transform 0.1s ease-in-out; /* Smooth transition for the rotation */
+  }
+  .hover\:rotate-div:hover .rotate-image {
+    transform: rotate(45deg); /* Rotate image 45 degrees on hover */
+  }
+.bg-service
+{
+  background-image: url(../../../public/img/service/BG_SERVICE.jpg);
+  min-height: auto; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
